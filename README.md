@@ -1,7 +1,7 @@
 # Ecommerce Web Application
 
 Welcome to the GitHub repo of "Sunny's Sunshine Corner", the e-store where you can browse and order beautiful embroidery designs, designed and hand-made by Ms Sunnyeong Ahn.
-The application was designed following Dennis Ivy online course
+The application was designed following Dennis Ivy's [online course](https://www.youtube.com/watch?v=_ELCMngbM0E&list=PL-51WBLyFTg0omnamUjL1TCVov7yDTRng&ab_channel=DennisIvy), highly recommendable to learn the fundamentals of Django web development.
 
 The web app was built in the Django framework, while HTML, CSS/Bootstrap and Javascript were used for the front-end. For now, I use Javascript to reload the *whole* page whenever there is an update, but I am currently redesigning the app to use HTTP requests and jQuery for the sake of efficiency.
 
