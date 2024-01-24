@@ -9,12 +9,12 @@ The web app was built in the Django framework, while HTML, CSS/Bootstrap and Jav
 ## To run locally
 The site is still under construction so I haven't yet deployed it. However, we can run it locally by following the following steps:
 
-1. Fork this repo, and cd to the project directory
+1. Fork this repo, and cd to the project directory.
 ```
 cd ecommerce
 ```
 
-2. Create and activate a Python virtual environment, then install the required packages and libraries:
+2. Create and activate a Python virtual environment, then install the required packages and libraries.
 ```
 pip install -r requirements.txt
 ```
